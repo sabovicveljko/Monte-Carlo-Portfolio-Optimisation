@@ -1,6 +1,6 @@
 # Monte-Carlo-Portfolio-Optimisation
 
-This project is part of our university programming assignment. We aim to find the most efficient asset allocation for a 15-stock portfolio using historical data and simulations.
+This project is part of our university programming assignment. We aim to find the most efficient asset allocation for a 20-stock portfolio using historical data and simulations.
 
 ## Current Status:
 - [x] Environment and libraries setup
